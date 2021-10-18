@@ -4,25 +4,25 @@ Hello i'm surya and i'm a computer science student and working as a part time fr
 
 - 👀 I’m interested in ...
 
---> Reactjs
---> Nodejs
---> Graph1l
---> PostgresQL
---> MongoDB
---> Express
---> Stripe
---> React-native
---> Flutter
---> Git
---> Github
+Reactjs
+Nodejs
+Graph1l
+PostgresQL
+MongoDB
+Express
+Stripe
+React-native
+Flutter
+Git
+Github
 
 - 🌱 I’m currently learning ...
 
---> Stripe
---> React-native
---> Flutter
---> Git
---> Github
+ Stripe
+ React-native
+ Flutter
+ Git
+ Github
 
 - 📫 How to reach me
 
