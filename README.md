@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZr-qM5Vrd0g&psig=AOvVaw1yNHZAoB-xtcOFAcR-ZWPK&ust=1644565886776000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCrlL7T9PUCFQAAAAAdAAAAABAD" />
+
+![maxresdefault](https://user-images.githubusercontent.com/92708411/153363055-3051c5d6-5e76-41d9-9591-47148c48f0fc.jpg)
 
 ### Hi, I'm Surya 👋
 
