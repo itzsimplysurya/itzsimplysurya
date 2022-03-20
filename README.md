@@ -30,9 +30,13 @@ Hi I'm surya And i'm a pro copy paster A.K.A Programmer.
 <br /> 
 <br /> 
   
+---------
   
-![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=itzsimplysurya&count_private=true&show_icons=true&theme=algolia)
+![Surya's Github Stats](https://github-readme-stats.vercel.app/api?username=itzsimplysurya&count_private=true&show_icons=true&theme=algolia)
 
+---------
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsimplysurya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -------
 
 <br />
 <br />
