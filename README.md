@@ -1,22 +1,20 @@
 
-![maxresdefault](https://user-images.githubusercontent.com/92708411/153363055-3051c5d6-5e76-41d9-9591-47148c48f0fc.jpg)
+![image](https://user-images.githubusercontent.com/92708411/166423765-07c44ee0-2135-4451-9692-5c8aa27d2811.png)
 
 ### Hi, I'm Surya 👋
 
-Hi I'm surya And i'm a pro copy paster A.K.A Programmer.
-
-**Fun Fact**: I'ma cat
-
+Hi I'm surya And i'm a pro copy paster A.K.A Programmer😂.
 
 
 [//]: # (note that this is placeholder data while the infrastructure for changing it is built)
 
 #### My Skills
 
-- I know how to copy codes from stackoverflow
-- I Make grabge and push it to github
-- I Can sleep for 12 hours straight
-- What else do you think I can do
+- HTML,CSS,JS
+- React
+- Graphql
+- MongoDB
+- Postgresql(On progress)
 
 #### Contact
 
